@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">股票实时分析</string>
+    //没有记录
+    <string name="tv_nodata"> 没有记录</string>
+    <string name="bt_nodata"> 重新加载</string>
+    <string name="toast_nodata">正在重新加载。。。</string>
+</resources>
